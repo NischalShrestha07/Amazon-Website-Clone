@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: cursive;
+    font-family: 'santserret',sans-serif;
 }
 
 body{
@@ -20,5 +20,12 @@ nav{
     justify-content: space-between;
     background: #131921;
     padding: 10px 20px;
-    color: black;
+    color: white;
+}
+.nav-country{
+    display: flex;
+    align-items: end;
+    margin-left: 15px;
+    font-size: 13px;
+    color: #c4c4c4;
 }
