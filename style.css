@@ -86,3 +86,26 @@ font-size: 14px;
     align-items: center;
 margin:0 15px;
 }
+.nav-bottom{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 8px 20px;
+    color: white;
+    font-size: 15px;
+}
+.nav-bottom div{
+    display: flex;
+    align-items: center;
+    gap: 5px ;
+
+}
+.header-slider ul{
+    display: flex;
+    overflow-y: hidden;
+
+
+}
+.header-img{
+    max-width: 100%;
+}
