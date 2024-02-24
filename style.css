@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+body{
+    background: #dadada;
+
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    /* it will inherit the property from the parent */
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #131921;
+    padding: 10px 20px;
+    color: black;
+}
