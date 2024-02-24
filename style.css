@@ -108,8 +108,9 @@ margin:0 15px;
 }
 .header-img{
     max-width: 100%;
-    mask-image: ;
+    mask-image: linear-gradient(to bottom,#000000 50%,transparent 100%);
 }
+
 .header-slider{
     position: absolute;
     top: 20%;
