@@ -56,5 +56,8 @@ nav{
 }
 .nav-search-icon{
 max-width: 41px;
-
+padding: 8px ;
+background: #ffd64f;
+border: 0 4px 4px 0;
 }
+
