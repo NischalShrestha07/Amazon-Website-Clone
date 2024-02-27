@@ -140,6 +140,13 @@ margin:0 15px;
     padding: 15px 20px;
     max-width: 24%;
     min-height: 200px;
-
-
+    z-index: 1;
+}
+.box-col a{
+    font-size: 13px;
+    color: #009999;
+    font-weight: 500;
+}
+.header-box{
+    margin-top: -20vw;
 }
